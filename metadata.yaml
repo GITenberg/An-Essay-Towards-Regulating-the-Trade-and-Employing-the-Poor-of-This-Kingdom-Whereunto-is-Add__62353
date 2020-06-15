@@ -1,0 +1,25 @@
+_repo: An-Essay-Towards-Regulating-the-Trade-and-Employing-the-Poor-of-This-Kingdom-Whereunto-is-Add__62353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cary, John
+    gutenberg_agent_id: '51701'
+    url: http://www.gutenberg.org/2009/agents/51701
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Economic conditions -- 18th century'
+- !lcc 'HB'
+- !lcsh 'Poor -- Great Britain'
+- !lcsh 'Great Britain -- Commercial policy'
+- GITenberg
+title: "An Essay Towards Regulating the Trade, and Employing the Poor of This Kingdom\r\
+  \nWhereunto is Added, an Essay Towards Paying Off the Publick Debts"
+url: http://www.gutenberg.org/ebooks/62353
